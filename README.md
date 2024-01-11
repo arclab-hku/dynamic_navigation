@@ -7,4 +7,6 @@ A complete navigation system for UAVs flying in the unknown dynamic environment.
 ## Demo video link:
 [Simulation](https://youtu.be/1g9vHfoycs0),[Real-world experiments](https://www.youtube.com/watch?v=5CwFATodSvU)
 
-The code will be released after the paper is accepted.
+The code for this publication has been moved to [another repo](https://github.com/chenhanpolyu/velocity_planner).
+
+It is strongly recommended to check [this repo](https://github.com/chenhanpolyu/AutoFly-demo) to learn about our latest work on a more robust and versatile navigation system in a dynamic environment. 
